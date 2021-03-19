@@ -19,20 +19,6 @@ subplot(3,3,6), mesh(abs(f2)); title('Merkezde Toplanmış Frekans Bölgesi');
 %% b)Resim üzerine harici olarak 
 %% 10dB beyaz gürültü ekleyerek a seçeneğinde belirtilen gösterimi
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 %% AGS
 clear all,clc,close all
 IOrj = imread('peppers.png'); % Görüntüyü okudum
